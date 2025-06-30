@@ -3,14 +3,13 @@
 /*                                                        :::      ::::::::   */
 /*   ft_str_is_uppercase.c                              :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: namatias <marvin@42.fr>                    +#+  +:+       +#+        */
+/*   By: namatias <namatias@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/04/27 18:22:23 by namatias          #+#    #+#             */
-/*   Updated: 2025/04/27 18:22:26 by namatias         ###   ########.fr       */
+/*   Updated: 2025/06/30 17:26:20 by namatias         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include <unistd.h>
 #include <stdio.h>
 
 int	ft_str_is_uppercase(char *str)
